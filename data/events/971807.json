@@ -1,0 +1,300 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "971807"
+  },
+  "errors": [],
+  "results": 13,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 41,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 31010,
+        "name": "Federico Dimarco"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 41,
+        "extra": null
+      },
+      "team": {
+        "id": 212,
+        "name": "FC Porto",
+        "logo": "https://media.api-sports.io/football/teams/212.png"
+      },
+      "player": {
+        "id": 380,
+        "name": "Otávio"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 51,
+        "extra": null
+      },
+      "team": {
+        "id": 212,
+        "name": "FC Porto",
+        "logo": "https://media.api-sports.io/football/teams/212.png"
+      },
+      "player": {
+        "id": 41197,
+        "name": "Galeno"
+      },
+      "assist": {
+        "id": 152856,
+        "name": "Evanilson"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 31010,
+        "name": "F. Dimarco"
+      },
+      "assist": {
+        "id": 30422,
+        "name": "R. Gosens"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 58,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "E. Džeko"
+      },
+      "assist": {
+        "id": 907,
+        "name": "R. Lukaku"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 63,
+        "extra": null
+      },
+      "team": {
+        "id": 212,
+        "name": "FC Porto",
+        "logo": "https://media.api-sports.io/football/teams/212.png"
+      },
+      "player": {
+        "id": 10500,
+        "name": "Pepê"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 72,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 1457,
+        "name": "H. Mkhitaryan"
+      },
+      "assist": {
+        "id": 201,
+        "name": "M. Brozović"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 212,
+        "name": "FC Porto",
+        "logo": "https://media.api-sports.io/football/teams/212.png"
+      },
+      "player": {
+        "id": 380,
+        "name": "Otávio"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 212,
+        "name": "FC Porto",
+        "logo": "https://media.api-sports.io/football/teams/212.png"
+      },
+      "player": {
+        "id": 380,
+        "name": "Otávio"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 198,
+        "name": "M. Škriniar"
+      },
+      "assist": {
+        "id": 226,
+        "name": "D. Dumfries"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 83,
+        "extra": null
+      },
+      "team": {
+        "id": 212,
+        "name": "FC Porto",
+        "logo": "https://media.api-sports.io/football/teams/212.png"
+      },
+      "player": {
+        "id": 42315,
+        "name": "M. Taremi"
+      },
+      "assist": {
+        "id": 970,
+        "name": "Wendell"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 86,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 907,
+        "name": "R. Lukaku"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 2
+      },
+      "team": {
+        "id": 212,
+        "name": "FC Porto",
+        "logo": "https://media.api-sports.io/football/teams/212.png"
+      },
+      "player": {
+        "id": 41734,
+        "name": "João Mário"
+      },
+      "assist": {
+        "id": 128385,
+        "name": "Gonçalo Borges"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    }
+  ]
+}

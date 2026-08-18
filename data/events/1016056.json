@@ -1,0 +1,432 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "1016056"
+  },
+  "errors": [],
+  "results": 19,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 14,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 30558,
+        "name": "N. Barella"
+      },
+      "assist": {
+        "id": 217,
+        "name": "Lautaro Martínez"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 38,
+        "extra": null
+      },
+      "team": {
+        "id": 211,
+        "name": "Benfica",
+        "logo": "https://media.api-sports.io/football/teams/211.png"
+      },
+      "player": {
+        "id": 39043,
+        "name": "F. Aursnes"
+      },
+      "assist": {
+        "id": 573,
+        "name": "Rafa"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 211,
+        "name": "Benfica",
+        "logo": "https://media.api-sports.io/football/teams/211.png"
+      },
+      "player": {
+        "id": 10305,
+        "name": "Gilberto"
+      },
+      "assist": {
+        "id": 552,
+        "name": "David Neres"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 49,
+        "extra": null
+      },
+      "team": {
+        "id": 211,
+        "name": "Benfica",
+        "logo": "https://media.api-sports.io/football/teams/211.png"
+      },
+      "player": {
+        "id": 573,
+        "name": "Rafa Silva"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 65,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 217,
+        "name": "Lautaro Martínez"
+      },
+      "assist": {
+        "id": 31010,
+        "name": "F. Dimarco"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 211,
+        "name": "Benfica",
+        "logo": "https://media.api-sports.io/football/teams/211.png"
+      },
+      "player": {
+        "id": 41585,
+        "name": "Gonçalo Ramos"
+      },
+      "assist": {
+        "id": 925,
+        "name": "Gonçalo Guedes"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "E. Džeko"
+      },
+      "assist": {
+        "id": 907,
+        "name": "R. Lukaku"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 30558,
+        "name": "N. Barella"
+      },
+      "assist": {
+        "id": 1640,
+        "name": "H. Çalhanoğlu"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 217,
+        "name": "Lautaro Martínez"
+      },
+      "assist": {
+        "id": 1854,
+        "name": "J. Correa"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 78,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 1854,
+        "name": "J. Correa"
+      },
+      "assist": {
+        "id": 31010,
+        "name": "F. Dimarco"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 31010,
+        "name": "F. Dimarco"
+      },
+      "assist": {
+        "id": 30422,
+        "name": "R. Gosens"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 31009,
+        "name": "A. Bastoni"
+      },
+      "assist": {
+        "id": 193,
+        "name": "D. D'Ambrosio"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 211,
+        "name": "Benfica",
+        "logo": "https://media.api-sports.io/football/teams/211.png"
+      },
+      "player": {
+        "id": 41130,
+        "name": "Chiquinho"
+      },
+      "assist": {
+        "id": 66055,
+        "name": "P. Musa"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 211,
+        "name": "Benfica",
+        "logo": "https://media.api-sports.io/football/teams/211.png"
+      },
+      "player": {
+        "id": 573,
+        "name": "Rafa"
+      },
+      "assist": {
+        "id": 335051,
+        "name": "João Neves"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 211,
+        "name": "Benfica",
+        "logo": "https://media.api-sports.io/football/teams/211.png"
+      },
+      "player": {
+        "id": 66055,
+        "name": "Petar Musa"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 86,
+        "extra": null
+      },
+      "team": {
+        "id": 211,
+        "name": "Benfica",
+        "logo": "https://media.api-sports.io/football/teams/211.png"
+      },
+      "player": {
+        "id": 331832,
+        "name": "António Silva"
+      },
+      "assist": {
+        "id": 563,
+        "name": "Álex Grimaldo"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 211,
+        "name": "Benfica",
+        "logo": "https://media.api-sports.io/football/teams/211.png"
+      },
+      "player": {
+        "id": 206,
+        "name": "João Mário"
+      },
+      "assist": {
+        "id": 301528,
+        "name": "A. Schjelderup"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 5
+      },
+      "team": {
+        "id": 211,
+        "name": "Benfica",
+        "logo": "https://media.api-sports.io/football/teams/211.png"
+      },
+      "player": {
+        "id": 552,
+        "name": "David Neres"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Argument"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 5
+      },
+      "team": {
+        "id": 211,
+        "name": "Benfica",
+        "logo": "https://media.api-sports.io/football/teams/211.png"
+      },
+      "player": {
+        "id": 66055,
+        "name": "P. Musa"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    }
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "971808"
+  },
+  "errors": [],
+  "results": 15,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 33,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 887,
+        "name": "Matteo Darmian"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 69,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "Edin Džeko"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 212,
+        "name": "FC Porto",
+        "logo": "https://media.api-sports.io/football/teams/212.png"
+      },
+      "player": {
+        "id": 35570,
+        "name": "S. Eustáquio"
+      },
+      "assist": {
+        "id": 130256,
+        "name": "André Franco"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 790,
+        "name": "E. Džeko"
+      },
+      "assist": {
+        "id": 907,
+        "name": "R. Lukaku"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 70,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 31010,
+        "name": "F. Dimarco"
+      },
+      "assist": {
+        "id": 193,
+        "name": "D. D'Ambrosio"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 71,
+        "extra": null
+      },
+      "team": {
+        "id": 212,
+        "name": "FC Porto",
+        "logo": "https://media.api-sports.io/football/teams/212.png"
+      },
+      "player": {
+        "id": 152856,
+        "name": "Evanilson"
+      },
+      "assist": {
+        "id": 47181,
+        "name": "Toni Martínez"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 74,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 31009,
+        "name": "A. Bastoni"
+      },
+      "assist": {
+        "id": 194,
+        "name": "S. de Vrij"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 79,
+        "extra": null
+      },
+      "team": {
+        "id": 212,
+        "name": "FC Porto",
+        "logo": "https://media.api-sports.io/football/teams/212.png"
+      },
+      "player": {
+        "id": 10500,
+        "name": "Pepê"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 30558,
+        "name": "N. Barella"
+      },
+      "assist": {
+        "id": 201,
+        "name": "M. Brozović"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 80,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 887,
+        "name": "M. Darmian"
+      },
+      "assist": {
+        "id": 198,
+        "name": "M. Škriniar"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 212,
+        "name": "FC Porto",
+        "logo": "https://media.api-sports.io/football/teams/212.png"
+      },
+      "player": {
+        "id": 2491,
+        "name": "M. Uribe"
+      },
+      "assist": {
+        "id": 19625,
+        "name": "D. Namaso"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 85,
+        "extra": null
+      },
+      "team": {
+        "id": 212,
+        "name": "FC Porto",
+        "logo": "https://media.api-sports.io/football/teams/212.png"
+      },
+      "player": {
+        "id": 126899,
+        "name": "Z. Sanusi"
+      },
+      "assist": {
+        "id": 970,
+        "name": "Wendell"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 505,
+        "name": "Inter",
+        "logo": "https://media.api-sports.io/football/teams/505.png"
+      },
+      "player": {
+        "id": 1836,
+        "name": "Francesco Acerbi"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Time wasting"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 7
+      },
+      "team": {
+        "id": 212,
+        "name": "FC Porto",
+        "logo": "https://media.api-sports.io/football/teams/212.png"
+      },
+      "player": {
+        "id": 10500,
+        "name": "Pepê"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 7
+      },
+      "team": {
+        "id": 212,
+        "name": "FC Porto",
+        "logo": "https://media.api-sports.io/football/teams/212.png"
+      },
+      "player": {
+        "id": 10500,
+        "name": "Pepê"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Red Card",
+      "comments": "Foul"
+    }
+  ]
+}

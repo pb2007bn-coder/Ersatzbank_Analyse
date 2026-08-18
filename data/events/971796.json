@@ -1,0 +1,300 @@
+{
+  "get": "fixtures/events",
+  "parameters": {
+    "fixture": "971796"
+  },
+  "errors": [],
+  "results": 13,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "time": {
+        "elapsed": 36,
+        "extra": null
+      },
+      "team": {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "https://media.api-sports.io/football/teams/85.png"
+      },
+      "player": {
+        "id": 257,
+        "name": "Marquinhos"
+      },
+      "assist": {
+        "id": 1146,
+        "name": "N. Mukiele"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 46,
+        "extra": null
+      },
+      "team": {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "https://media.api-sports.io/football/teams/85.png"
+      },
+      "player": {
+        "id": 1146,
+        "name": "N. Mukiele"
+      },
+      "assist": {
+        "id": 268571,
+        "name": "E. Bitshiabu"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 53,
+        "extra": null
+      },
+      "team": {
+        "id": 157,
+        "name": "Bayern Munich",
+        "logo": "https://media.api-sports.io/football/teams/157.png"
+      },
+      "player": {
+        "id": 275,
+        "name": "Eric Maxim Choupo-Moting"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Var",
+      "detail": "Goal cancelled",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 61,
+        "extra": null
+      },
+      "team": {
+        "id": 157,
+        "name": "Bayern Munich",
+        "logo": "https://media.api-sports.io/football/teams/157.png"
+      },
+      "player": {
+        "id": 275,
+        "name": "E. Choupo-Moting"
+      },
+      "assist": {
+        "id": 511,
+        "name": "L. Goretzka"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 68,
+        "extra": null
+      },
+      "team": {
+        "id": 157,
+        "name": "Bayern Munich",
+        "logo": "https://media.api-sports.io/football/teams/157.png"
+      },
+      "player": {
+        "id": 275,
+        "name": "E. Choupo-Moting"
+      },
+      "assist": {
+        "id": 644,
+        "name": "L. Sané"
+      },
+      "type": "subst",
+      "detail": "Substitution 1",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 76,
+        "extra": null
+      },
+      "team": {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "https://media.api-sports.io/football/teams/85.png"
+      },
+      "player": {
+        "id": 328,
+        "name": "Fabián Ruiz"
+      },
+      "assist": {
+        "id": 336657,
+        "name": "W. Zaïre-Emery"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 81,
+        "extra": null
+      },
+      "team": {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "https://media.api-sports.io/football/teams/85.png"
+      },
+      "player": {
+        "id": 128384,
+        "name": "Vitinha"
+      },
+      "assist": {
+        "id": 174565,
+        "name": "H. Ekitike"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 157,
+        "name": "Bayern Munich",
+        "logo": "https://media.api-sports.io/football/teams/157.png"
+      },
+      "player": {
+        "id": 181812,
+        "name": "J. Musiala"
+      },
+      "assist": {
+        "id": 304,
+        "name": "S. Mané"
+      },
+      "type": "subst",
+      "detail": "Substitution 2",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 82,
+        "extra": null
+      },
+      "team": {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "https://media.api-sports.io/football/teams/85.png"
+      },
+      "player": {
+        "id": 263482,
+        "name": "Nuno Mendes"
+      },
+      "assist": {
+        "id": 258,
+        "name": "Juan Bernat"
+      },
+      "type": "subst",
+      "detail": "Substitution 5",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 86,
+        "extra": null
+      },
+      "team": {
+        "id": 157,
+        "name": "Bayern Munich",
+        "logo": "https://media.api-sports.io/football/teams/157.png"
+      },
+      "player": {
+        "id": 508,
+        "name": "K. Coman"
+      },
+      "assist": {
+        "id": 510,
+        "name": "S. Gnabry"
+      },
+      "type": "subst",
+      "detail": "Substitution 3",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 86,
+        "extra": null
+      },
+      "team": {
+        "id": 157,
+        "name": "Bayern Munich",
+        "logo": "https://media.api-sports.io/football/teams/157.png"
+      },
+      "player": {
+        "id": 522,
+        "name": "T. Müller"
+      },
+      "assist": {
+        "id": 855,
+        "name": "João Cancelo"
+      },
+      "type": "subst",
+      "detail": "Substitution 4",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 89,
+        "extra": null
+      },
+      "team": {
+        "id": 157,
+        "name": "Bayern Munich",
+        "logo": "https://media.api-sports.io/football/teams/157.png"
+      },
+      "player": {
+        "id": 510,
+        "name": "S. Gnabry"
+      },
+      "assist": {
+        "id": 855,
+        "name": "João Cancelo"
+      },
+      "type": "Goal",
+      "detail": "Normal Goal",
+      "comments": null
+    },
+    {
+      "time": {
+        "elapsed": 90,
+        "extra": 5
+      },
+      "team": {
+        "id": 85,
+        "name": "Paris Saint Germain",
+        "logo": "https://media.api-sports.io/football/teams/85.png"
+      },
+      "player": {
+        "id": 9,
+        "name": "Achraf Hakimi"
+      },
+      "assist": {
+        "id": null,
+        "name": null
+      },
+      "type": "Card",
+      "detail": "Yellow Card",
+      "comments": "Foul"
+    }
+  ]
+}
