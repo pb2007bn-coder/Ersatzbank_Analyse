@@ -3,7 +3,7 @@ import json
 import os
 import time
 
-API_KEY = "ea52795b547a87c2fe1a8470f14b76c7"
+API_KEY = "Dein_API_KEY_hier"
 BASE_URL = "https://v3.football.api-sports.io"
 
 headers = {
