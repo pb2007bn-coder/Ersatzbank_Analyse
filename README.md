@@ -12,11 +12,11 @@ Wie viel bringen Einwechselspieler, und wann wird gewechselt? Eine kleine Daten-
 
 ## 📊 Ergebnisse
 
-Ausgewertet sind **28 der 29 K.-o.-Spiele** mit **214 Einwechslungen** und **67 Toren**. Das Finale fehlt noch (siehe Einschränkungen).
+Ausgewertet sind **alle 29 K.-o.-Spiele** vom Achtelfinale bis zum Finale, mit **221 Einwechslungen** und **68 Toren**.
 
-* **Joker treffen etwa doppelt so oft pro Minute.** Einwechselspieler standen überschlagen nur rund **7 % der Spielzeit** auf dem Platz, erzielten aber **13,4 % der Tore** (9 von 67). Das sind 0,21 Tore pro 90 Minuten gegenüber 0,10 bei Startelfspielern.
-* **Gewechselt wird spät.** Die durchschnittliche Einwechslung fällt in die **71,9. Minute** (Median: 74. Minute). **46,7 %** aller Wechsel passieren erst ab der 76. Minute, nur **3,3 %** in der ersten Halbzeit und weitere 3,3 % zur Halbzeit.
-* **Die Finalisten wechseln gegensätzlich.** Inter kommt auf **4,8 Wechsel pro Spiel**, Manchester City nur auf **2,0**, bei jeweils 6 ausgewerteten Spielen.
+* **Joker treffen etwa doppelt so oft pro Minute.** Einwechselspieler standen überschlagen nur rund **7 % der Spielzeit** auf dem Platz, erzielten aber **13,2 % der Tore** (9 von 68). Das sind 0,20 Tore pro 90 Minuten gegenüber 0,10 bei Startelfspielern.
+* **Gewechselt wird spät.** Die durchschnittliche Einwechslung fällt in die **71,9. Minute** (Median: 74. Minute). **47,5 %** aller Wechsel passieren erst ab der 76. Minute, nur **3,6 %** in der ersten Halbzeit und weitere 3,2 % zur Halbzeit.
+* **Die Finalisten wechseln gegensätzlich.** Inter kommt auf **4,9 Wechsel pro Spiel**, Manchester City nur auf **2,0**, bei jeweils 7 Spielen.
 
 Die neun Joker-Tore: R. Lukaku (2), David Neres (2), J. Correa, P. Musa, Marco Asensio, S. Gnabry und J. Álvarez.
 
@@ -40,8 +40,7 @@ Pro Spiel gerechnet, weil Teams, die weiterkommen, mehr Spiele haben.
 
 ## ⚠️ Einschränkungen
 
-* **Das Finale fehlt.** Für Manchester City – Inter liegen noch keine Event-Daten vor. Sobald `get_events.py` das Spiel abgerufen hat, fließt es beim nächsten Durchlauf automatisch in alle Zahlen ein.
-* **Kleine Stichprobe.** Eine Saison, 28 Spiele, 9 Joker-Tore. Die Ergebnisse beschreiben diese K.-o.-Phase und sind keine allgemeine Aussage über Fußball.
+* **Kleine Stichprobe.** Eine Saison, 29 Spiele, 9 Joker-Tore. Die Ergebnisse beschreiben diese K.-o.-Phase und sind keine allgemeine Aussage über Fußball.
 * **Spielzeit ist ein Überschlag.** Gerechnet wird von der Einwechslung bis Minute 90 und mit 22 Spielern über 90 Minuten. Nachspielzeit und Platzverweise sind nicht berücksichtigt.
 * **Kein Beweis für Ursache und Wirkung.** Eingewechselt werden häufig Offensivspieler, und zwar in einer Phase, in der Spiele offener werden. Das allein kann die höhere Torquote erklären.
 

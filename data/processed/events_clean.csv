@@ -280,3 +280,11 @@ fixture_id,minute,extra_minute,team_name,player_name,assist_or_in,event_type,det
 1022982,84,,Manchester City,K. De Bruyne,P. Foden,subst,Substitution 2
 1022982,89,,Manchester City,E. Haaland,J. Álvarez,subst,Substitution 3
 1022982,90,1,Manchester City,J. Álvarez,P. Foden,Goal,Normal Goal
+1027909,36,,Manchester City,K. De Bruyne,P. Foden,subst,Substitution 1
+1027909,57,,Inter,E. Džeko,R. Lukaku,subst,Substitution 1
+1027909,68,,Manchester City,Rodri,,Goal,Normal Goal
+1027909,76,,Inter,A. Bastoni,R. Gosens,subst,Substitution 2
+1027909,76,,Inter,D. Dumfries,R. Bellanova,subst,Substitution 3
+1027909,82,,Manchester City,J. Stones,K. Walker,subst,Substitution 2
+1027909,84,,Inter,H. Çalhanoğlu,H. Mkhitaryan,subst,Substitution 4
+1027909,84,,Inter,M. Darmian,D. D'Ambrosio,subst,Substitution 5
