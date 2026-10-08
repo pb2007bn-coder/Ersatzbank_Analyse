@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Zugangsdaten gehören nie ins Repository
+.env
+
+# Editor
+.vscode/
+.idea/

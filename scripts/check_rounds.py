@@ -1,7 +1,10 @@
+"""Hilfsskript: zeigt, welche Rundennamen in den Rohdaten vorkommen."""
 import json
 
+from config import FIXTURES_RAW
+
 # Die gespeicherte Datei wieder einlesen
-with open("../data/fixtures_raw.json", "r", encoding="utf-8") as f:
+with open(FIXTURES_RAW, "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # Alle Spiele stehen in der Liste "response"
