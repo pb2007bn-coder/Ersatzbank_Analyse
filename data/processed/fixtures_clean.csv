@@ -1,0 +1,30 @@
+fixture_id,date,round,home_team,away_team,home_goals,away_goals,has_events
+971795,2023-02-14,Round of 16,Paris Saint Germain,Bayern Munich,0,1,1
+971793,2023-02-14,Round of 16,AC Milan,Tottenham,1,0,1
+971799,2023-02-15,Round of 16,Borussia Dortmund,Chelsea,1,0,1
+971797,2023-02-15,Round of 16,Club Brugge KV,Benfica,0,2,1
+971801,2023-02-21,Round of 16,Liverpool,Real Madrid,2,5,1
+971803,2023-02-21,Round of 16,Eintracht Frankfurt,Napoli,0,2,1
+971805,2023-02-22,Round of 16,RB Leipzig,Manchester City,1,1,1
+971807,2023-02-22,Round of 16,Inter,FC Porto,1,0,1
+971800,2023-03-07,Round of 16,Chelsea,Borussia Dortmund,2,0,1
+971798,2023-03-07,Round of 16,Benfica,Club Brugge KV,5,1,1
+971794,2023-03-08,Round of 16,Tottenham,AC Milan,0,0,1
+971796,2023-03-08,Round of 16,Bayern Munich,Paris Saint Germain,2,0,1
+971806,2023-03-14,Round of 16,Manchester City,RB Leipzig,7,0,1
+971808,2023-03-14,Round of 16,FC Porto,Inter,0,0,1
+971804,2023-03-15,Round of 16,Napoli,Eintracht Frankfurt,3,0,1
+971802,2023-03-15,Round of 16,Real Madrid,Liverpool,1,0,1
+1016057,2023-04-11,Quarter-finals,Manchester City,Bayern Munich,3,0,1
+1016055,2023-04-11,Quarter-finals,Benfica,Inter,0,2,1
+1016061,2023-04-12,Quarter-finals,AC Milan,Napoli,1,0,1
+1016059,2023-04-12,Quarter-finals,Real Madrid,Chelsea,2,0,1
+1016060,2023-04-18,Quarter-finals,Chelsea,Real Madrid,0,2,1
+1016062,2023-04-18,Quarter-finals,Napoli,AC Milan,1,1,1
+1016058,2023-04-19,Quarter-finals,Bayern Munich,Manchester City,1,1,1
+1016056,2023-04-19,Quarter-finals,Inter,Benfica,3,3,1
+1022981,2023-05-09,Semi-finals,Real Madrid,Manchester City,1,1,1
+1022983,2023-05-10,Semi-finals,AC Milan,Inter,0,2,1
+1022984,2023-05-16,Semi-finals,Inter,AC Milan,1,0,1
+1022982,2023-05-17,Semi-finals,Manchester City,Real Madrid,4,0,1
+1027909,2023-06-10,Final,Manchester City,Inter,1,0,0

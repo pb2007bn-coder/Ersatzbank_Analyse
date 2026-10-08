@@ -1,6 +1,9 @@
+"""Schritt 2: Aus allen Saisonspielen nur die K.-o.-Phase behalten."""
 import json
 
-with open("../data/fixtures_raw.json", "r", encoding="utf-8") as f:
+from config import FIXTURES_KO, FIXTURES_RAW
+
+with open(FIXTURES_RAW, "r", encoding="utf-8") as f:
     data = json.load(f)
 
 fixtures = data["response"]
@@ -15,10 +18,10 @@ for spiel in fixtures:
     if spiel["league"]["round"] in ko_runden:
         ko_fixtures.append(spiel)
 
-print("Anzahl K.o.-Spiele:", len(ko_fixtures))
+print("Anzahl K.-o.-Spiele:", len(ko_fixtures))
 
 # Nur die gefilterten Spiele speichern (nicht die ganze Saison)
-with open("../data/fixtures_ko.json", "w", encoding="utf-8") as f:
+with open(FIXTURES_KO, "w", encoding="utf-8") as f:
     json.dump(ko_fixtures, f, ensure_ascii=False, indent=2)
 
-print("Gespeichert unter data/fixtures_ko.json")
+print("Gespeichert unter", FIXTURES_KO)

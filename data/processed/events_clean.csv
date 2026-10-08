@@ -1,28 +1,167 @@
 fixture_id,minute,extra_minute,team_name,player_name,assist_or_in,event_type,detail
-1016055,51,,Inter,N. Barella,A. Bastoni,Goal,Normal Goal
-1016055,63,,Inter,F. Dimarco,R. Gosens,subst,Substitution 1
-1016055,63,,Inter,E. Džeko,R. Lukaku,subst,Substitution 2
-1016055,63,,Inter,Lautaro Martínez,J. Correa,subst,Substitution 3
-1016055,64,,Benfica,Florentino,David Neres,subst,Substitution 1
-1016055,82,,Inter,R. Lukaku,,Goal,Penalty
-1016055,87,,Inter,D. Dumfries,D. D'Ambrosio,subst,Substitution 4
-1016055,90,1.0,Inter,A. Bastoni,S. de Vrij,subst,Substitution 5
-1016056,14,,Inter,N. Barella,Lautaro Martínez,Goal,Normal Goal
-1016056,38,,Benfica,F. Aursnes,Rafa,Goal,Normal Goal
-1016056,46,,Benfica,Gilberto,David Neres,subst,Substitution 1
-1016056,65,,Inter,Lautaro Martínez,F. Dimarco,Goal,Normal Goal
-1016056,74,,Benfica,Gonçalo Ramos,Gonçalo Guedes,subst,Substitution 2
-1016056,76,,Inter,E. Džeko,R. Lukaku,subst,Substitution 1
-1016056,76,,Inter,N. Barella,H. Çalhanoğlu,subst,Substitution 2
-1016056,76,,Inter,Lautaro Martínez,J. Correa,subst,Substitution 3
-1016056,78,,Inter,J. Correa,F. Dimarco,Goal,Normal Goal
-1016056,80,,Inter,F. Dimarco,R. Gosens,subst,Substitution 4
-1016056,80,,Inter,A. Bastoni,D. D'Ambrosio,subst,Substitution 5
-1016056,80,,Benfica,Chiquinho,P. Musa,subst,Substitution 3
-1016056,80,,Benfica,Rafa,João Neves,subst,Substitution 4
-1016056,86,,Benfica,António Silva,Álex Grimaldo,Goal,Normal Goal
-1016056,89,,Benfica,João Mário,A. Schjelderup,subst,Substitution 5
-1016056,90,5.0,Benfica,P. Musa,,Goal,Normal Goal
+971795,46,,Paris Saint Germain,A. Hakimi,P. Kimpembe,subst,Substitution 1
+971795,46,,Bayern Munich,João Cancelo,A. Davies,subst,Substitution 1
+971795,53,,Bayern Munich,K. Coman,A. Davies,Goal,Normal Goal
+971795,57,,Paris Saint Germain,Carlos Soler,K. Mbappé,subst,Substitution 2
+971795,57,,Paris Saint Germain,W. Zaïre-Emery,Fabián Ruiz,subst,Substitution 3
+971795,75,,Paris Saint Germain,Danilo Pereira,Vitinha,subst,Substitution 4
+971795,75,,Bayern Munich,K. Coman,S. Gnabry,subst,Substitution 2
+971795,76,,Bayern Munich,E. Choupo-Moting,T. Müller,subst,Substitution 3
+971795,87,,Bayern Munich,J. Musiala,R. Gravenberch,subst,Substitution 4
+971795,90,,Bayern Munich,L. Sané,J. Stanišić,subst,Substitution 5
+971793,7,,AC Milan,Brahim Díaz,,Goal,Normal Goal
+971793,70,,Tottenham,D. Kulusevski,Richarlison,subst,Substitution 1
+971793,77,,AC Milan,A. Saelemaekers,Junior Messias,subst,Substitution 1
+971793,77,,AC Milan,Brahim Díaz,C. De Ketelaere,subst,Substitution 2
+971793,81,,Tottenham,C. Lenglet,B. Davies,subst,Substitution 2
+971793,81,,Tottenham,Son Heung-Min,A. Danjuma,subst,Substitution 3
+971793,86,,AC Milan,S. Tonali,T. Pobega,subst,Substitution 3
+971793,90,1,AC Milan,Rafael Leão,A. Rebić,subst,Substitution 4
+971799,63,,Borussia Dortmund,K. Adeyemi,Raphaël Guerreiro,Goal,Normal Goal
+971799,68,,Borussia Dortmund,S. Haller,A. Modeste,subst,Substitution 1
+971799,71,,Chelsea,M. Mudryk,M. Mount,subst,Substitution 1
+971799,71,,Chelsea,B. Chilwell,Marc Cucurella,subst,Substitution 2
+971799,73,,Borussia Dortmund,M. Wolf,J. Ryerson,subst,Substitution 2
+971799,79,,Borussia Dortmund,K. Adeyemi,J. Bynoe-Gittens,subst,Substitution 3
+971797,51,,Benfica,João Mário,,Goal,Penalty
+971797,65,,Club Brugge KV,D. Odoi,C. Nielsen,subst,Substitution 1
+971797,65,,Benfica,Rafa,David Neres,subst,Substitution 1
+971797,65,,Benfica,Gonçalo Ramos,Gonçalo Guedes,subst,Substitution 2
+971797,79,,Club Brugge KV,K. Sowah,Ferran Jutglà,subst,Substitution 2
+971797,88,,Benfica,David Neres,,Goal,Normal Goal
+971797,90,4,Benfica,João Mário,João Neves,subst,Substitution 3
+971801,4,,Liverpool,D. Núñez,Mohamed Salah,Goal,Normal Goal
+971801,14,,Liverpool,Mohamed Salah,,Goal,Normal Goal
+971801,21,,Real Madrid,Vinícius Júnior,K. Benzema,Goal,Normal Goal
+971801,27,,Real Madrid,D. Alaba,Nacho,subst,Substitution 1
+971801,36,,Real Madrid,Vinícius Júnior,,Goal,Normal Goal
+971801,47,,Real Madrid,Éder Militão,L. Modrić,Goal,Normal Goal
+971801,55,,Real Madrid,K. Benzema,Rodrygo,Goal,Normal Goal
+971801,64,,Liverpool,C. Gakpo,Roberto Firmino,subst,Substitution 1
+971801,64,,Liverpool,D. Núñez,Diogo Jota,subst,Substitution 2
+971801,67,,Real Madrid,K. Benzema,Vinícius Júnior,Goal,Normal Goal
+971801,73,,Liverpool,J. Henderson,J. Milner,subst,Substitution 3
+971801,73,,Liverpool,J. Gomez,J. Matip,subst,Substitution 4
+971801,81,,Real Madrid,Rodrygo,Dani Ceballos,subst,Substitution 2
+971801,85,,Liverpool,Stefan Bajčetić,H. Elliott,subst,Substitution 5
+971801,87,,Real Madrid,L. Modrić,T. Kroos,subst,Substitution 3
+971801,87,,Real Madrid,K. Benzema,Marco Asensio,subst,Substitution 4
+971803,40,,Napoli,V. Osimhen,H. Lozano,Goal,Normal Goal
+971803,65,,Napoli,G. Di Lorenzo,K. Kvaratskhelia,Goal,Normal Goal
+971803,69,,Eintracht Frankfurt,J. Lindstrøm,R. Borré,subst,Substitution 1
+971803,69,,Eintracht Frankfurt,Aurélio Buta,A. Knauff,subst,Substitution 2
+971803,80,,Napoli,A. Zambo Anguissa,T. Ndombélé,subst,Substitution 1
+971803,80,,Napoli,H. Lozano,E. Elmas,subst,Substitution 2
+971803,81,,Eintracht Frankfurt,M. Götze,F. Alidou,subst,Substitution 3
+971803,84,,Napoli,V. Osimhen,G. Simeone,subst,Substitution 3
+971803,84,,Napoli,K. Kvaratskhelia,M. Politano,subst,Substitution 4
+971803,90,2,Eintracht Frankfurt,P. Max,C. Lenz,subst,Substitution 4
+971805,27,,Manchester City,R. Mahrez,İ. Gündoğan,Goal,Normal Goal
+971805,46,,RB Leipzig,L. Klostermann,B. Henrichs,subst,Substitution 1
+971805,66,,RB Leipzig,E. Forsberg,C. Nkunku,subst,Substitution 2
+971805,70,,RB Leipzig,J. Gvardiol,M. Halstenberg,Goal,Normal Goal
+971805,82,,RB Leipzig,André Silva,Y. Poulsen,subst,Substitution 3
+971805,82,,RB Leipzig,X. Schlager,A. Haidara,subst,Substitution 4
+971805,89,,RB Leipzig,M. Halstenberg,D. Raum,subst,Substitution 5
+971807,51,,FC Porto,Galeno,Evanilson,subst,Substitution 1
+971807,58,,Inter,F. Dimarco,R. Gosens,subst,Substitution 1
+971807,58,,Inter,E. Džeko,R. Lukaku,subst,Substitution 2
+971807,72,,Inter,H. Mkhitaryan,M. Brozović,subst,Substitution 3
+971807,81,,Inter,M. Škriniar,D. Dumfries,subst,Substitution 4
+971807,83,,FC Porto,M. Taremi,Wendell,subst,Substitution 2
+971807,86,,Inter,R. Lukaku,,Goal,Normal Goal
+971807,90,2,FC Porto,João Mário,Gonçalo Borges,subst,Substitution 3
+971800,5,,Borussia Dortmund,J. Brandt,G. Reyna,subst,Substitution 1
+971800,43,,Chelsea,R. Sterling,,Goal,Normal Goal
+971800,53,,Chelsea,K. Havertz,,Goal,Penalty
+971800,64,,Borussia Dortmund,S. Özcan,J. Bynoe-Gittens,subst,Substitution 2
+971800,67,,Chelsea,João Félix,C. Gallagher,subst,Substitution 1
+971800,77,,Borussia Dortmund,S. Haller,D. Malen,subst,Substitution 3
+971800,82,,Chelsea,R. Sterling,R. Loftus-Cheek,subst,Substitution 2
+971800,83,,Chelsea,M. Kovačić,C. Pulišić,subst,Substitution 3
+971800,87,,Chelsea,E. Fernández,D. Zakaria,subst,Substitution 4
+971798,38,,Benfica,Rafa,Gonçalo Ramos,Goal,Normal Goal
+971798,45,2,Benfica,Gonçalo Ramos,João Mário,Goal,Normal Goal
+971798,46,,Club Brugge KV,N. Lang,R. Onyedika,subst,Substitution 1
+971798,57,,Benfica,Gonçalo Ramos,Álex Grimaldo,Goal,Normal Goal
+971798,62,,Club Brugge KV,R. Yaremchuk,Ferran Jutglà,subst,Substitution 2
+971798,62,,Club Brugge KV,Clinton Mata,D. Odoi,subst,Substitution 3
+971798,63,,Benfica,Chiquinho,David Neres,subst,Substitution 1
+971798,63,,Benfica,A. Bah,Gilberto,subst,Substitution 2
+971798,71,,Benfica,João Mário,,Goal,Penalty
+971798,74,,Benfica,N. Otamendi,Morato,subst,Substitution 3
+971798,74,,Benfica,João Mário,João Neves,subst,Substitution 4
+971798,74,,Club Brugge KV,H. Vanaken,M. Rits,subst,Substitution 4
+971798,75,,Club Brugge KV,K. Sowah,A. Nusa,subst,Substitution 5
+971798,77,,Benfica,David Neres,João Neves,Goal,Normal Goal
+971798,87,,Club Brugge KV,B. Meijer,T. Buchanan,Goal,Normal Goal
+971798,88,,Benfica,António Silva,Lucas Veríssimo,subst,Substitution 5
+971794,53,,Tottenham,I. Perišić,Pedro Porro,subst,Substitution 1
+971794,56,,AC Milan,Junior Messias,A. Saelemaekers,subst,Substitution 1
+971794,70,,Tottenham,Emerson,Richarlison,subst,Substitution 2
+971794,81,,AC Milan,Brahim Díaz,I. Bennacer,subst,Substitution 2
+971794,81,,AC Milan,O. Giroud,D. Origi,subst,Substitution 3
+971794,83,,Tottenham,D. Kulusevski,D. Sánchez,subst,Substitution 3
+971794,89,,AC Milan,Rafael Leão,A. Rebić,subst,Substitution 4
+971796,36,,Paris Saint Germain,Marquinhos,N. Mukiele,subst,Substitution 1
+971796,46,,Paris Saint Germain,N. Mukiele,E. Bitshiabu,subst,Substitution 2
+971796,61,,Bayern Munich,E. Choupo-Moting,L. Goretzka,Goal,Normal Goal
+971796,68,,Bayern Munich,E. Choupo-Moting,L. Sané,subst,Substitution 1
+971796,76,,Paris Saint Germain,Fabián Ruiz,W. Zaïre-Emery,subst,Substitution 3
+971796,81,,Paris Saint Germain,Vitinha,H. Ekitike,subst,Substitution 4
+971796,82,,Bayern Munich,J. Musiala,S. Mané,subst,Substitution 2
+971796,82,,Paris Saint Germain,Nuno Mendes,Juan Bernat,subst,Substitution 5
+971796,86,,Bayern Munich,K. Coman,S. Gnabry,subst,Substitution 3
+971796,86,,Bayern Munich,T. Müller,João Cancelo,subst,Substitution 4
+971796,89,,Bayern Munich,S. Gnabry,João Cancelo,Goal,Normal Goal
+971806,22,,Manchester City,E. Haaland,,Goal,Penalty
+971806,24,,Manchester City,E. Haaland,,Goal,Normal Goal
+971806,45,2,Manchester City,E. Haaland,,Goal,Normal Goal
+971806,49,,Manchester City,İ. Gündoğan,J. Grealish,Goal,Normal Goal
+971806,53,,Manchester City,E. Haaland,,Goal,Normal Goal
+971806,55,,Manchester City,İ. Gündoğan,R. Mahrez,subst,Substitution 1
+971806,55,,Manchester City,J. Grealish,P. Foden,subst,Substitution 2
+971806,57,,Manchester City,E. Haaland,,Goal,Normal Goal
+971806,62,,RB Leipzig,T. Werner,Y. Poulsen,subst,Substitution 1
+971806,62,,RB Leipzig,E. Forsberg,André Silva,subst,Substitution 2
+971806,63,,Manchester City,E. Haaland,J. Álvarez,subst,Substitution 3
+971806,63,,RB Leipzig,A. Haidara,M. Simakan,subst,Substitution 3
+971806,64,,Manchester City,J. Stones,Sergio Gómez,subst,Substitution 4
+971806,64,,Manchester City,Rodri,K. Phillips,subst,Substitution 5
+971806,72,,RB Leipzig,D. Szoboszlai,Dani Olmo,subst,Substitution 4
+971806,80,,RB Leipzig,B. Henrichs,L. Klostermann,subst,Substitution 5
+971806,90,2,Manchester City,K. De Bruyne,R. Mahrez,Goal,Normal Goal
+971808,70,,FC Porto,S. Eustáquio,André Franco,subst,Substitution 1
+971808,70,,Inter,E. Džeko,R. Lukaku,subst,Substitution 1
+971808,70,,Inter,F. Dimarco,D. D'Ambrosio,subst,Substitution 2
+971808,71,,FC Porto,Evanilson,Toni Martínez,subst,Substitution 2
+971808,74,,Inter,A. Bastoni,S. de Vrij,subst,Substitution 3
+971808,80,,Inter,N. Barella,M. Brozović,subst,Substitution 4
+971808,80,,Inter,M. Darmian,M. Škriniar,subst,Substitution 5
+971808,85,,FC Porto,M. Uribe,D. Namaso,subst,Substitution 3
+971808,85,,FC Porto,Z. Sanusi,Wendell,subst,Substitution 4
+971804,45,2,Napoli,V. Osimhen,M. Politano,Goal,Normal Goal
+971804,53,,Napoli,V. Osimhen,G. Di Lorenzo,Goal,Normal Goal
+971804,62,,Eintracht Frankfurt,A. Knauff,F. Alidou,subst,Substitution 1
+971804,64,,Napoli,P. Zieliński,,Goal,Penalty
+971804,66,,Napoli,Kim Min-Jae,Juan Jesus,subst,Substitution 1
+971804,67,,Napoli,M. Politano,H. Lozano,subst,Substitution 2
+971804,67,,Eintracht Frankfurt,C. Lenz,P. Max,subst,Substitution 2
+971804,74,,Napoli,K. Kvaratskhelia,E. Elmas,subst,Substitution 3
+971804,74,,Napoli,P. Zieliński,T. Ndombélé,subst,Substitution 4
+971804,74,,Eintracht Frankfurt,S. Rode,K. Jakić,subst,Substitution 3
+971804,81,,Napoli,V. Osimhen,G. Simeone,subst,Substitution 5
+971802,57,,Liverpool,D. Núñez,Roberto Firmino,subst,Substitution 1
+971802,57,,Liverpool,Diogo Jota,H. Elliott,subst,Substitution 2
+971802,73,,Liverpool,J. Milner,A. Oxlade-Chamberlain,subst,Substitution 3
+971802,78,,Real Madrid,K. Benzema,Vinícius Júnior,Goal,Normal Goal
+971802,82,,Real Madrid,L. Modrić,Dani Ceballos,subst,Substitution 1
+971802,82,,Real Madrid,K. Benzema,Rodrygo,subst,Substitution 2
+971802,84,,Real Madrid,Vinícius Júnior,Marco Asensio,subst,Substitution 3
+971802,84,,Real Madrid,T. Kroos,A. Tchouaméni,subst,Substitution 4
+971802,86,,Real Madrid,Dani Carvajal,Lucas Vázquez,subst,Substitution 5
+971802,90,1,Liverpool,A. Robertson,K. Tsimikas,subst,Substitution 4
+971802,90,1,Liverpool,C. Gakpo,Fábio Carvalho,subst,Substitution 5
 1016057,27,,Manchester City,Rodri,Bernardo Silva,Goal,Normal Goal
 1016057,68,,Manchester City,K. De Bruyne,J. Álvarez,subst,Substitution 1
 1016057,69,,Bayern Munich,J. Musiala,S. Mané,subst,Substitution 1
@@ -30,16 +169,21 @@ fixture_id,minute,extra_minute,team_name,player_name,assist_or_in,event_type,det
 1016057,76,,Manchester City,E. Haaland,J. Stones,Goal,Normal Goal
 1016057,80,,Bayern Munich,S. Gnabry,T. Müller,subst,Substitution 2
 1016057,80,,Bayern Munich,A. Davies,João Cancelo,subst,Substitution 3
-1016058,57,,Manchester City,E. Haaland,K. De Bruyne,Goal,Normal Goal
-1016058,63,,Bayern Munich,João Cancelo,A. Davies,subst,Substitution 1
-1016058,64,,Bayern Munich,L. Sané,S. Mané,subst,Substitution 2
-1016058,66,,Manchester City,N. Aké,Aymeric Laporte,subst,Substitution 1
-1016058,71,,Bayern Munich,E. Choupo-Moting,M. Tel,subst,Substitution 3
-1016058,72,,Bayern Munich,J. Musiala,T. Müller,subst,Substitution 4
-1016058,77,,Bayern Munich,B. Pavard,J. Stanišić,subst,Substitution 5
-1016058,83,,Bayern Munich,J. Kimmich,,Goal,Penalty
-1016058,84,,Manchester City,E. Haaland,J. Álvarez,subst,Substitution 2
-1016058,88,,Manchester City,K. De Bruyne,K. Walker,subst,Substitution 3
+1016055,51,,Inter,N. Barella,A. Bastoni,Goal,Normal Goal
+1016055,63,,Inter,F. Dimarco,R. Gosens,subst,Substitution 1
+1016055,63,,Inter,E. Džeko,R. Lukaku,subst,Substitution 2
+1016055,63,,Inter,Lautaro Martínez,J. Correa,subst,Substitution 3
+1016055,64,,Benfica,Florentino,David Neres,subst,Substitution 1
+1016055,82,,Inter,R. Lukaku,,Goal,Penalty
+1016055,87,,Inter,D. Dumfries,D. D'Ambrosio,subst,Substitution 4
+1016055,90,1,Inter,A. Bastoni,S. de Vrij,subst,Substitution 5
+1016061,40,,AC Milan,I. Bennacer,Brahim Díaz,Goal,Normal Goal
+1016061,67,,AC Milan,I. Bennacer,A. Saelemaekers,subst,Substitution 1
+1016061,69,,Napoli,H. Lozano,G. Raspadori,subst,Substitution 1
+1016061,80,,AC Milan,Brahim Díaz,A. Rebić,subst,Substitution 2
+1016061,80,,Napoli,P. Zieliński,T. Ndombélé,subst,Substitution 2
+1016061,81,,Napoli,K. Kvaratskhelia,M. Politano,subst,Substitution 3
+1016061,81,,Napoli,Mário Rui,M. Olivera,subst,Substitution 4
 1016059,21,,Real Madrid,K. Benzema,,Goal,Normal Goal
 1016059,55,,Chelsea,K. Koulibaly,Marc Cucurella,subst,Substitution 1
 1016059,65,,Chelsea,R. Sterling,K. Havertz,subst,Substitution 2
@@ -62,13 +206,6 @@ fixture_id,minute,extra_minute,team_name,player_name,assist_or_in,event_type,det
 1016060,80,,Real Madrid,Rodrygo,F. Valverde,Goal,Normal Goal
 1016060,81,,Real Madrid,Rodrygo,Marco Asensio,subst,Substitution 4
 1016060,81,,Real Madrid,Dani Carvajal,Nacho,subst,Substitution 5
-1016061,40,,AC Milan,I. Bennacer,Brahim Díaz,Goal,Normal Goal
-1016061,67,,AC Milan,I. Bennacer,A. Saelemaekers,subst,Substitution 1
-1016061,69,,Napoli,H. Lozano,G. Raspadori,subst,Substitution 1
-1016061,80,,AC Milan,Brahim Díaz,A. Rebić,subst,Substitution 2
-1016061,80,,Napoli,P. Zieliński,T. Ndombélé,subst,Substitution 2
-1016061,81,,Napoli,K. Kvaratskhelia,M. Politano,subst,Substitution 3
-1016061,81,,Napoli,Mário Rui,M. Olivera,subst,Substitution 4
 1016062,34,,Napoli,M. Politano,H. Lozano,subst,Substitution 1
 1016062,34,,Napoli,Mário Rui,M. Olivera,subst,Substitution 2
 1016062,43,,AC Milan,O. Giroud,Rafael Leão,Goal,Normal Goal
@@ -78,24 +215,38 @@ fixture_id,minute,extra_minute,team_name,player_name,assist_or_in,event_type,det
 1016062,74,,Napoli,P. Zieliński,G. Raspadori,subst,Substitution 4
 1016062,74,,Napoli,A. Rrahmani,L. Østigård,subst,Substitution 5
 1016062,84,,AC Milan,Rafael Leão,A. Saelemaekers,subst,Substitution 3
-1016062,90,3.0,Napoli,V. Osimhen,G. Raspadori,Goal,Normal Goal
+1016062,90,3,Napoli,V. Osimhen,G. Raspadori,Goal,Normal Goal
+1016058,57,,Manchester City,E. Haaland,K. De Bruyne,Goal,Normal Goal
+1016058,63,,Bayern Munich,João Cancelo,A. Davies,subst,Substitution 1
+1016058,64,,Bayern Munich,L. Sané,S. Mané,subst,Substitution 2
+1016058,66,,Manchester City,N. Aké,Aymeric Laporte,subst,Substitution 1
+1016058,71,,Bayern Munich,E. Choupo-Moting,M. Tel,subst,Substitution 3
+1016058,72,,Bayern Munich,J. Musiala,T. Müller,subst,Substitution 4
+1016058,77,,Bayern Munich,B. Pavard,J. Stanišić,subst,Substitution 5
+1016058,83,,Bayern Munich,J. Kimmich,,Goal,Penalty
+1016058,84,,Manchester City,E. Haaland,J. Álvarez,subst,Substitution 2
+1016058,88,,Manchester City,K. De Bruyne,K. Walker,subst,Substitution 3
+1016056,14,,Inter,N. Barella,Lautaro Martínez,Goal,Normal Goal
+1016056,38,,Benfica,F. Aursnes,Rafa,Goal,Normal Goal
+1016056,46,,Benfica,Gilberto,David Neres,subst,Substitution 1
+1016056,65,,Inter,Lautaro Martínez,F. Dimarco,Goal,Normal Goal
+1016056,74,,Benfica,Gonçalo Ramos,Gonçalo Guedes,subst,Substitution 2
+1016056,76,,Inter,E. Džeko,R. Lukaku,subst,Substitution 1
+1016056,76,,Inter,N. Barella,H. Çalhanoğlu,subst,Substitution 2
+1016056,76,,Inter,Lautaro Martínez,J. Correa,subst,Substitution 3
+1016056,78,,Inter,J. Correa,F. Dimarco,Goal,Normal Goal
+1016056,80,,Inter,F. Dimarco,R. Gosens,subst,Substitution 4
+1016056,80,,Inter,A. Bastoni,D. D'Ambrosio,subst,Substitution 5
+1016056,80,,Benfica,Chiquinho,P. Musa,subst,Substitution 3
+1016056,80,,Benfica,Rafa,João Neves,subst,Substitution 4
+1016056,86,,Benfica,António Silva,Álex Grimaldo,Goal,Normal Goal
+1016056,89,,Benfica,João Mário,A. Schjelderup,subst,Substitution 5
+1016056,90,5,Benfica,P. Musa,,Goal,Normal Goal
 1022981,36,,Real Madrid,Vinícius Júnior,E. Camavinga,Goal,Normal Goal
 1022981,67,,Manchester City,K. De Bruyne,İ. Gündoğan,Goal,Normal Goal
 1022981,81,,Real Madrid,Rodrygo,Marco Asensio,subst,Substitution 1
 1022981,84,,Real Madrid,T. Kroos,A. Tchouaméni,subst,Substitution 2
 1022981,87,,Real Madrid,L. Modrić,Nacho,subst,Substitution 3
-1022982,23,,Manchester City,Bernardo Silva,K. De Bruyne,Goal,Normal Goal
-1022982,37,,Manchester City,Bernardo Silva,,Goal,Normal Goal
-1022982,63,,Real Madrid,L. Modrić,A. Rüdiger,subst,Substitution 1
-1022982,70,,Real Madrid,T. Kroos,Marco Asensio,subst,Substitution 2
-1022982,76,,Manchester City,M. Akanji,K. De Bruyne,Goal,Normal Goal
-1022982,79,,Manchester City,İ. Gündoğan,R. Mahrez,subst,Substitution 1
-1022982,79,,Real Madrid,E. Camavinga,A. Tchouaméni,subst,Substitution 3
-1022982,79,,Real Madrid,Rodrygo,Dani Ceballos,subst,Substitution 4
-1022982,80,,Real Madrid,Dani Carvajal,Lucas Vázquez,subst,Substitution 5
-1022982,84,,Manchester City,K. De Bruyne,P. Foden,subst,Substitution 2
-1022982,89,,Manchester City,E. Haaland,J. Álvarez,subst,Substitution 3
-1022982,90,1.0,Manchester City,J. Álvarez,P. Foden,Goal,Normal Goal
 1022983,8,,Inter,E. Džeko,H. Çalhanoğlu,Goal,Normal Goal
 1022983,11,,Inter,H. Mkhitaryan,F. Dimarco,Goal,Normal Goal
 1022983,17,,AC Milan,I. Bennacer,Junior Messias,subst,Substitution 1
@@ -117,166 +268,15 @@ fixture_id,minute,extra_minute,team_name,player_name,assist_or_in,event_type,det
 1022984,76,,AC Milan,Brahim Díaz,D. Origi,subst,Substitution 3
 1022984,84,,Inter,N. Barella,R. Gagliardini,subst,Substitution 4
 1022984,84,,Inter,Lautaro Martínez,J. Correa,subst,Substitution 5
-971793,7,,AC Milan,Brahim Díaz,,Goal,Normal Goal
-971793,70,,Tottenham,D. Kulusevski,Richarlison,subst,Substitution 1
-971793,77,,AC Milan,A. Saelemaekers,Junior Messias,subst,Substitution 1
-971793,77,,AC Milan,Brahim Díaz,C. De Ketelaere,subst,Substitution 2
-971793,81,,Tottenham,C. Lenglet,B. Davies,subst,Substitution 2
-971793,81,,Tottenham,Son Heung-Min,A. Danjuma,subst,Substitution 3
-971793,86,,AC Milan,S. Tonali,T. Pobega,subst,Substitution 3
-971793,90,1.0,AC Milan,Rafael Leão,A. Rebić,subst,Substitution 4
-971794,53,,Tottenham,I. Perišić,Pedro Porro,subst,Substitution 1
-971794,56,,AC Milan,Junior Messias,A. Saelemaekers,subst,Substitution 1
-971794,70,,Tottenham,Emerson,Richarlison,subst,Substitution 2
-971794,81,,AC Milan,Brahim Díaz,I. Bennacer,subst,Substitution 2
-971794,81,,AC Milan,O. Giroud,D. Origi,subst,Substitution 3
-971794,83,,Tottenham,D. Kulusevski,D. Sánchez,subst,Substitution 3
-971794,89,,AC Milan,Rafael Leão,A. Rebić,subst,Substitution 4
-971795,46,,Paris Saint Germain,A. Hakimi,P. Kimpembe,subst,Substitution 1
-971795,46,,Bayern Munich,João Cancelo,A. Davies,subst,Substitution 1
-971795,53,,Bayern Munich,K. Coman,A. Davies,Goal,Normal Goal
-971795,57,,Paris Saint Germain,Carlos Soler,K. Mbappé,subst,Substitution 2
-971795,57,,Paris Saint Germain,W. Zaïre-Emery,Fabián Ruiz,subst,Substitution 3
-971795,75,,Paris Saint Germain,Danilo Pereira,Vitinha,subst,Substitution 4
-971795,75,,Bayern Munich,K. Coman,S. Gnabry,subst,Substitution 2
-971795,76,,Bayern Munich,E. Choupo-Moting,T. Müller,subst,Substitution 3
-971795,87,,Bayern Munich,J. Musiala,R. Gravenberch,subst,Substitution 4
-971795,90,,Bayern Munich,L. Sané,J. Stanišić,subst,Substitution 5
-971796,36,,Paris Saint Germain,Marquinhos,N. Mukiele,subst,Substitution 1
-971796,46,,Paris Saint Germain,N. Mukiele,E. Bitshiabu,subst,Substitution 2
-971796,61,,Bayern Munich,E. Choupo-Moting,L. Goretzka,Goal,Normal Goal
-971796,68,,Bayern Munich,E. Choupo-Moting,L. Sané,subst,Substitution 1
-971796,76,,Paris Saint Germain,Fabián Ruiz,W. Zaïre-Emery,subst,Substitution 3
-971796,81,,Paris Saint Germain,Vitinha,H. Ekitike,subst,Substitution 4
-971796,82,,Bayern Munich,J. Musiala,S. Mané,subst,Substitution 2
-971796,82,,Paris Saint Germain,Nuno Mendes,Juan Bernat,subst,Substitution 5
-971796,86,,Bayern Munich,K. Coman,S. Gnabry,subst,Substitution 3
-971796,86,,Bayern Munich,T. Müller,João Cancelo,subst,Substitution 4
-971796,89,,Bayern Munich,S. Gnabry,João Cancelo,Goal,Normal Goal
-971797,51,,Benfica,João Mário,,Goal,Penalty
-971797,65,,Club Brugge KV,D. Odoi,C. Nielsen,subst,Substitution 1
-971797,65,,Benfica,Rafa,David Neres,subst,Substitution 1
-971797,65,,Benfica,Gonçalo Ramos,Gonçalo Guedes,subst,Substitution 2
-971797,79,,Club Brugge KV,K. Sowah,Ferran Jutglà,subst,Substitution 2
-971797,88,,Benfica,David Neres,,Goal,Normal Goal
-971797,90,4.0,Benfica,João Mário,João Neves,subst,Substitution 3
-971798,38,,Benfica,Rafa,Gonçalo Ramos,Goal,Normal Goal
-971798,45,2.0,Benfica,Gonçalo Ramos,João Mário,Goal,Normal Goal
-971798,46,,Club Brugge KV,N. Lang,R. Onyedika,subst,Substitution 1
-971798,57,,Benfica,Gonçalo Ramos,Álex Grimaldo,Goal,Normal Goal
-971798,62,,Club Brugge KV,R. Yaremchuk,Ferran Jutglà,subst,Substitution 2
-971798,62,,Club Brugge KV,Clinton Mata,D. Odoi,subst,Substitution 3
-971798,63,,Benfica,Chiquinho,David Neres,subst,Substitution 1
-971798,63,,Benfica,A. Bah,Gilberto,subst,Substitution 2
-971798,71,,Benfica,João Mário,,Goal,Penalty
-971798,74,,Benfica,N. Otamendi,Morato,subst,Substitution 3
-971798,74,,Benfica,João Mário,João Neves,subst,Substitution 4
-971798,74,,Club Brugge KV,H. Vanaken,M. Rits,subst,Substitution 4
-971798,75,,Club Brugge KV,K. Sowah,A. Nusa,subst,Substitution 5
-971798,77,,Benfica,David Neres,João Neves,Goal,Normal Goal
-971798,87,,Club Brugge KV,B. Meijer,T. Buchanan,Goal,Normal Goal
-971798,88,,Benfica,António Silva,Lucas Veríssimo,subst,Substitution 5
-971799,63,,Borussia Dortmund,K. Adeyemi,Raphaël Guerreiro,Goal,Normal Goal
-971799,68,,Borussia Dortmund,S. Haller,A. Modeste,subst,Substitution 1
-971799,71,,Chelsea,M. Mudryk,M. Mount,subst,Substitution 1
-971799,71,,Chelsea,B. Chilwell,Marc Cucurella,subst,Substitution 2
-971799,73,,Borussia Dortmund,M. Wolf,J. Ryerson,subst,Substitution 2
-971799,79,,Borussia Dortmund,K. Adeyemi,J. Bynoe-Gittens,subst,Substitution 3
-971800,5,,Borussia Dortmund,J. Brandt,G. Reyna,subst,Substitution 1
-971800,43,,Chelsea,R. Sterling,,Goal,Normal Goal
-971800,53,,Chelsea,K. Havertz,,Goal,Penalty
-971800,64,,Borussia Dortmund,S. Özcan,J. Bynoe-Gittens,subst,Substitution 2
-971800,67,,Chelsea,João Félix,C. Gallagher,subst,Substitution 1
-971800,77,,Borussia Dortmund,S. Haller,D. Malen,subst,Substitution 3
-971800,82,,Chelsea,R. Sterling,R. Loftus-Cheek,subst,Substitution 2
-971800,83,,Chelsea,M. Kovačić,C. Pulišić,subst,Substitution 3
-971800,87,,Chelsea,E. Fernández,D. Zakaria,subst,Substitution 4
-971801,4,,Liverpool,D. Núñez,Mohamed Salah,Goal,Normal Goal
-971801,14,,Liverpool,Mohamed Salah,,Goal,Normal Goal
-971801,21,,Real Madrid,Vinícius Júnior,K. Benzema,Goal,Normal Goal
-971801,27,,Real Madrid,D. Alaba,Nacho,subst,Substitution 1
-971801,36,,Real Madrid,Vinícius Júnior,,Goal,Normal Goal
-971801,47,,Real Madrid,Éder Militão,L. Modrić,Goal,Normal Goal
-971801,55,,Real Madrid,K. Benzema,Rodrygo,Goal,Normal Goal
-971801,64,,Liverpool,C. Gakpo,Roberto Firmino,subst,Substitution 1
-971801,64,,Liverpool,D. Núñez,Diogo Jota,subst,Substitution 2
-971801,67,,Real Madrid,K. Benzema,Vinícius Júnior,Goal,Normal Goal
-971801,73,,Liverpool,J. Henderson,J. Milner,subst,Substitution 3
-971801,73,,Liverpool,J. Gomez,J. Matip,subst,Substitution 4
-971801,81,,Real Madrid,Rodrygo,Dani Ceballos,subst,Substitution 2
-971801,85,,Liverpool,Stefan Bajčetić,H. Elliott,subst,Substitution 5
-971801,87,,Real Madrid,L. Modrić,T. Kroos,subst,Substitution 3
-971801,87,,Real Madrid,K. Benzema,Marco Asensio,subst,Substitution 4
-971802,57,,Liverpool,D. Núñez,Roberto Firmino,subst,Substitution 1
-971802,57,,Liverpool,Diogo Jota,H. Elliott,subst,Substitution 2
-971802,73,,Liverpool,J. Milner,A. Oxlade-Chamberlain,subst,Substitution 3
-971802,78,,Real Madrid,K. Benzema,Vinícius Júnior,Goal,Normal Goal
-971802,82,,Real Madrid,L. Modrić,Dani Ceballos,subst,Substitution 1
-971802,82,,Real Madrid,K. Benzema,Rodrygo,subst,Substitution 2
-971802,84,,Real Madrid,Vinícius Júnior,Marco Asensio,subst,Substitution 3
-971802,84,,Real Madrid,T. Kroos,A. Tchouaméni,subst,Substitution 4
-971802,86,,Real Madrid,Dani Carvajal,Lucas Vázquez,subst,Substitution 5
-971802,90,1.0,Liverpool,A. Robertson,K. Tsimikas,subst,Substitution 4
-971802,90,1.0,Liverpool,C. Gakpo,Fábio Carvalho,subst,Substitution 5
-971803,40,,Napoli,V. Osimhen,H. Lozano,Goal,Normal Goal
-971803,65,,Napoli,G. Di Lorenzo,K. Kvaratskhelia,Goal,Normal Goal
-971803,69,,Eintracht Frankfurt,J. Lindstrøm,R. Borré,subst,Substitution 1
-971803,69,,Eintracht Frankfurt,Aurélio Buta,A. Knauff,subst,Substitution 2
-971803,80,,Napoli,A. Zambo Anguissa,T. Ndombélé,subst,Substitution 1
-971803,80,,Napoli,H. Lozano,E. Elmas,subst,Substitution 2
-971803,81,,Eintracht Frankfurt,M. Götze,F. Alidou,subst,Substitution 3
-971803,84,,Napoli,V. Osimhen,G. Simeone,subst,Substitution 3
-971803,84,,Napoli,K. Kvaratskhelia,M. Politano,subst,Substitution 4
-971803,90,2.0,Eintracht Frankfurt,P. Max,C. Lenz,subst,Substitution 4
-971804,45,2.0,Napoli,V. Osimhen,M. Politano,Goal,Normal Goal
-971804,53,,Napoli,V. Osimhen,G. Di Lorenzo,Goal,Normal Goal
-971804,62,,Eintracht Frankfurt,A. Knauff,F. Alidou,subst,Substitution 1
-971804,64,,Napoli,P. Zieliński,,Goal,Penalty
-971804,66,,Napoli,Kim Min-Jae,Juan Jesus,subst,Substitution 1
-971804,67,,Napoli,M. Politano,H. Lozano,subst,Substitution 2
-971804,67,,Eintracht Frankfurt,C. Lenz,P. Max,subst,Substitution 2
-971804,74,,Napoli,K. Kvaratskhelia,E. Elmas,subst,Substitution 3
-971804,74,,Napoli,P. Zieliński,T. Ndombélé,subst,Substitution 4
-971804,74,,Eintracht Frankfurt,S. Rode,K. Jakić,subst,Substitution 3
-971804,81,,Napoli,V. Osimhen,G. Simeone,subst,Substitution 5
-971805,27,,Manchester City,R. Mahrez,İ. Gündoğan,Goal,Normal Goal
-971805,46,,RB Leipzig,L. Klostermann,B. Henrichs,subst,Substitution 1
-971805,66,,RB Leipzig,E. Forsberg,C. Nkunku,subst,Substitution 2
-971805,70,,RB Leipzig,J. Gvardiol,M. Halstenberg,Goal,Normal Goal
-971805,82,,RB Leipzig,André Silva,Y. Poulsen,subst,Substitution 3
-971805,82,,RB Leipzig,X. Schlager,A. Haidara,subst,Substitution 4
-971805,89,,RB Leipzig,M. Halstenberg,D. Raum,subst,Substitution 5
-971806,22,,Manchester City,E. Haaland,,Goal,Penalty
-971806,24,,Manchester City,E. Haaland,,Goal,Normal Goal
-971806,45,2.0,Manchester City,E. Haaland,,Goal,Normal Goal
-971806,49,,Manchester City,İ. Gündoğan,J. Grealish,Goal,Normal Goal
-971806,53,,Manchester City,E. Haaland,,Goal,Normal Goal
-971806,55,,Manchester City,İ. Gündoğan,R. Mahrez,subst,Substitution 1
-971806,55,,Manchester City,J. Grealish,P. Foden,subst,Substitution 2
-971806,57,,Manchester City,E. Haaland,,Goal,Normal Goal
-971806,62,,RB Leipzig,T. Werner,Y. Poulsen,subst,Substitution 1
-971806,62,,RB Leipzig,E. Forsberg,André Silva,subst,Substitution 2
-971806,63,,Manchester City,E. Haaland,J. Álvarez,subst,Substitution 3
-971806,63,,RB Leipzig,A. Haidara,M. Simakan,subst,Substitution 3
-971806,64,,Manchester City,J. Stones,Sergio Gómez,subst,Substitution 4
-971806,64,,Manchester City,Rodri,K. Phillips,subst,Substitution 5
-971806,72,,RB Leipzig,D. Szoboszlai,Dani Olmo,subst,Substitution 4
-971806,80,,RB Leipzig,B. Henrichs,L. Klostermann,subst,Substitution 5
-971806,90,2.0,Manchester City,K. De Bruyne,R. Mahrez,Goal,Normal Goal
-971807,51,,FC Porto,Galeno,Evanilson,subst,Substitution 1
-971807,58,,Inter,F. Dimarco,R. Gosens,subst,Substitution 1
-971807,58,,Inter,E. Džeko,R. Lukaku,subst,Substitution 2
-971807,72,,Inter,H. Mkhitaryan,M. Brozović,subst,Substitution 3
-971807,81,,Inter,M. Škriniar,D. Dumfries,subst,Substitution 4
-971807,83,,FC Porto,M. Taremi,Wendell,subst,Substitution 2
-971807,86,,Inter,R. Lukaku,,Goal,Normal Goal
-971807,90,2.0,FC Porto,João Mário,Gonçalo Borges,subst,Substitution 3
-971808,70,,FC Porto,S. Eustáquio,André Franco,subst,Substitution 1
-971808,70,,Inter,E. Džeko,R. Lukaku,subst,Substitution 1
-971808,70,,Inter,F. Dimarco,D. D'Ambrosio,subst,Substitution 2
-971808,71,,FC Porto,Evanilson,Toni Martínez,subst,Substitution 2
-971808,74,,Inter,A. Bastoni,S. de Vrij,subst,Substitution 3
-971808,80,,Inter,N. Barella,M. Brozović,subst,Substitution 4
-971808,80,,Inter,M. Darmian,M. Škriniar,subst,Substitution 5
-971808,85,,FC Porto,M. Uribe,D. Namaso,subst,Substitution 3
-971808,85,,FC Porto,Z. Sanusi,Wendell,subst,Substitution 4
+1022982,23,,Manchester City,Bernardo Silva,K. De Bruyne,Goal,Normal Goal
+1022982,37,,Manchester City,Bernardo Silva,,Goal,Normal Goal
+1022982,63,,Real Madrid,L. Modrić,A. Rüdiger,subst,Substitution 1
+1022982,70,,Real Madrid,T. Kroos,Marco Asensio,subst,Substitution 2
+1022982,76,,Manchester City,M. Akanji,K. De Bruyne,Goal,Normal Goal
+1022982,79,,Manchester City,İ. Gündoğan,R. Mahrez,subst,Substitution 1
+1022982,79,,Real Madrid,E. Camavinga,A. Tchouaméni,subst,Substitution 3
+1022982,79,,Real Madrid,Rodrygo,Dani Ceballos,subst,Substitution 4
+1022982,80,,Real Madrid,Dani Carvajal,Lucas Vázquez,subst,Substitution 5
+1022982,84,,Manchester City,K. De Bruyne,P. Foden,subst,Substitution 2
+1022982,89,,Manchester City,E. Haaland,J. Álvarez,subst,Substitution 3
+1022982,90,1,Manchester City,J. Álvarez,P. Foden,Goal,Normal Goal
